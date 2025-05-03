@@ -1,2 +1,4 @@
 # StudySync
-A full-stack web app for collaborative study groups.
+## A full-stack web app for collaborative study groups.
+
+By Reiner Luminto
